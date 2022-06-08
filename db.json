@@ -1,0 +1,34 @@
+{
+  "employeeList": [
+    {
+      "firstName": "Dadi Seetharam",
+      "lastName": "Choudary",
+      "email": "dadiseetharam@gmail.com",
+      "phone": "7799698787",
+      "add": "Hyderabad",
+      "pin": "500080",
+      "country": "india",
+      "id": 1
+    },
+    {
+      "firstName": "Abdul",
+      "lastName": "Rafeeq",
+      "email": "16x41a0301@gmail.com",
+      "phone": "8317630613",
+      "add": "vij",
+      "pin": "520007",
+      "country": "india",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
